@@ -22,12 +22,12 @@ Quickly switch between accounts, launch multiple instances, and streamline your 
 ## 📥 Download
 
 > **Latest version:** [Download from Releases](https://github.com/rapidfiscalsupervise/roblox-account-manager/releases)
-**Default port:** 1234
+
 | File | Description |
 |------|-------------|
 | `RobloxAccountManager.exe` | Main executable (Windows) |
 | `accounts.dat` | Auto-generated encrypted account database |
-
+**Default port:** 1234
 ---
 
 ## 🛠️ System Requirements
