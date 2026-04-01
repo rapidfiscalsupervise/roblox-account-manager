@@ -43,7 +43,7 @@ Quickly switch between accounts, launch multiple instances, and streamline your 
 
 ## 🚀 How to Use
 
-1. **Download** the latest `.exe` from the [Releases](https://github.com/rapidfiscalsupervise/roblox-account-manager/releases) **Default port:** 1234 page
+1. **Download** the latest `.exe` from the [Releases](https://github.com/rapidfiscalsupervise/roblox-account-manager/releases) page **Default port:** 1234
 2. **Run** `RobloxAccountManager.exe` (no installation required)
 3. **Add accounts** by clicking the `+ Add Account` button
 4. **Launch** any account by clicking its icon or using the context menu
